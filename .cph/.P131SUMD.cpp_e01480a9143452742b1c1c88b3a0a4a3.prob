@@ -1,0 +1,1 @@
+{"name":"Local: P131SUMD","url":"d:\\Documents\\CPP\\SPOJ\\P131SUMD.cpp","tests":[{"id":1647919790669,"input":"11 25","output":""},{"id":1647920053819,"input":"1430 4862","output":""},{"id":1647920068174,"input":"16796 58786","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P131SUMD.cpp","group":"local","local":true}

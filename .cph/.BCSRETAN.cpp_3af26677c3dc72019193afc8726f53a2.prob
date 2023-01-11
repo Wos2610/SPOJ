@@ -1,0 +1,1 @@
+{"name":"Local: BCSRETAN","url":"d:\\Documents\\CPP\\SPOJ\\BCSRETAN.cpp","tests":[{"id":1648317502309,"input":"1","output":""},{"id":1648317505169,"input":"3","output":""},{"id":1648317636552,"input":"100000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\BCSRETAN.cpp","group":"local","local":true}

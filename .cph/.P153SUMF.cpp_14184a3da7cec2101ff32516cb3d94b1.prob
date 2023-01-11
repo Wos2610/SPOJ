@@ -1,0 +1,1 @@
+{"name":"Local: P153SUMF","url":"d:\\Documents\\CPP\\SPOJ\\P153SUMF.cpp","tests":[{"id":1648312135184,"input":"12\ntoosmallword","output":""},{"id":1648312151814,"input":"26\nabcdefghijklmnopqrstuvwxyz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P153SUMF.cpp","group":"local","local":true}

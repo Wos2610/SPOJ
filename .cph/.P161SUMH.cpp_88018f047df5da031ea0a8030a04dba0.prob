@@ -1,0 +1,1 @@
+{"name":"Local: P161SUMH","url":"d:\\Documents\\CPP\\SPOJ\\P161SUMH.cpp","tests":[{"id":1649663056480,"input":"3\nxxo\nxox\noxx","output":""},{"id":1649663097030,"input":"4\nxxxo\nxoxo\noxox\nxxxx","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P161SUMH.cpp","group":"local","local":true}

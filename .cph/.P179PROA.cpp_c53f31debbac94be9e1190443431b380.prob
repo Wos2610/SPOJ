@@ -1,0 +1,1 @@
+{"name":"Local: P179PROA","url":"d:\\Documents\\CPP\\SPOJ\\P179PROA.cpp","tests":[{"id":1648382108434,"input":"5\nPidgey\n12 36\nIvysaur\n10 63\nCharmander\n35 96\nPikachu\n12 32\nSquirtle\n15 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P179PROA.cpp","group":"local","local":true}

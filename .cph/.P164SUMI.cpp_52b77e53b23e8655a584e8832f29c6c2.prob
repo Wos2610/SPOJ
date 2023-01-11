@@ -1,0 +1,1 @@
+{"name":"Local: P164SUMI","url":"d:\\Documents\\CPP\\SPOJ\\P164SUMI.cpp","tests":[{"id":1648440338586,"input":"8 5\n10 9 8 7 7 7 5 5","output":""},{"id":1648440349792,"input":"4 2\n0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P164SUMI.cpp","group":"local","local":true}

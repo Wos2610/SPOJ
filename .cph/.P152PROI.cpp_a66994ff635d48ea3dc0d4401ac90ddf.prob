@@ -1,0 +1,1 @@
+{"name":"Local: P152PROI","url":"d:\\Documents\\CPP\\SPOJ\\P152PROI.cpp","tests":[{"id":1648800645543,"input":"13\n0\n90\n180\n270\n360\n480\n450\n660\n145\n135\n45\n60\n13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P152PROI.cpp","group":"local","local":true}

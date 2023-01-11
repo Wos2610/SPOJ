@@ -1,0 +1,1 @@
+{"name":"Local: P178PROG","url":"d:\\Documents\\CPP\\SPOJ\\P178PROG.cpp","tests":[{"id":1649439466455,"input":"4\nAHAH\nHAHA\nHHAAAAHH\n3\nCDE\nCDE\nEEDDCC\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P178PROG.cpp","group":"local","local":true}

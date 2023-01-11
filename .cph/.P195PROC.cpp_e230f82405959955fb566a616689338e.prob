@@ -1,0 +1,1 @@
+{"name":"Local: P195PROC","url":"d:\\Documents\\CPP\\SPOJ\\P195PROC.cpp","tests":[{"id":1649516214604,"input":"8\n252 244 6 109 294 31 67 270","output":""},{"id":1649516563047,"input":"2\n50 240","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P195PROC.cpp","group":"local","local":true}

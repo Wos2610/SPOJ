@@ -1,0 +1,1 @@
+{"name":"Local: P147PROH","url":"d:\\Documents\\CPP\\SPOJ\\P147PROH.cpp","tests":[{"id":1648034800987,"input":"testing \nintestg \nabc \naabbbcccc \nabcabcbcc \naabbbcccc \nabc \nxyz \nEND \nEND","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P147PROH.cpp","group":"local","local":true}

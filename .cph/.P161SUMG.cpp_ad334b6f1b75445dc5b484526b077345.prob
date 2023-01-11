@@ -1,0 +1,1 @@
+{"name":"Local: P161SUMG","url":"d:\\Documents\\CPP\\SPOJ\\P161SUMG.cpp","tests":[{"id":1648624608237,"input":"4 5 9 2 1","output":""},{"id":1648624633199,"input":"0 0 0 0 5","output":""},{"id":1648624784601,"input":"0 0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P161SUMG.cpp","group":"local","local":true}

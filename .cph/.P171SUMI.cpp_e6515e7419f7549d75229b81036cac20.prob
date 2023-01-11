@@ -1,0 +1,1 @@
+{"name":"Local: P171SUMI","url":"d:\\Documents\\CPP\\SPOJ\\P171SUMI.cpp","tests":[{"id":1648984713340,"input":"3\nabc\nccaa\nabcd","output":""},{"id":1648987197266,"input":"2\naba\nabcc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P171SUMI.cpp","group":"local","local":true}

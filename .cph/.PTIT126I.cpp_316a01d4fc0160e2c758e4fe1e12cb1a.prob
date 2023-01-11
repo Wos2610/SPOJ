@@ -1,0 +1,1 @@
+{"name":"Local: PTIT126I","url":"d:\\Documents\\CPP\\SPOJ\\PTIT126I.cpp","tests":[{"id":1647966534506,"input":"ABBA CCBB","output":""},{"id":1647966548938,"input":"BANANA PIDZAMA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\PTIT126I.cpp","group":"local","local":true}

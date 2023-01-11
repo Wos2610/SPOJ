@@ -1,0 +1,1 @@
+{"name":"Local: PTIT127A","url":"d:\\Documents\\CPP\\SPOJ\\PTIT127A.cpp","tests":[{"id":1649957796816,"input":"6 3 2\n","output":""},{"id":1649957811747,"input":"2 1 1","output":""},{"id":1649957817353,"input":"6 10 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\PTIT127A.cpp","group":"local","local":true}

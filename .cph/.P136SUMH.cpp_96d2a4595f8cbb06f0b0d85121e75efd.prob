@@ -1,0 +1,1 @@
+{"name":"Local: P136SUMH","url":"d:\\Documents\\CPP\\SPOJ\\P136SUMH.cpp","tests":[{"id":1647921867677,"input":"38 24","output":""},{"id":1647921876172,"input":"1 100","output":""},{"id":1647921884237,"input":"10 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P136SUMH.cpp","group":"local","local":true}

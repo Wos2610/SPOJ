@@ -1,0 +1,1 @@
+{"name":"Local: P195SUMC","url":"d:\\Documents\\CPP\\SPOJ\\P195SUMC.cpp","tests":[{"id":1649561601654,"input":"4\n\n\n25 25 50 50","output":""},{"id":1649561702846,"input":"2\n\n\n25 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P195SUMC.cpp","group":"local","local":true}

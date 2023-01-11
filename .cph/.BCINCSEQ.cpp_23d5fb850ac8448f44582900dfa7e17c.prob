@@ -1,0 +1,1 @@
+{"name":"Local: BCINCSEQ","url":"d:\\Documents\\CPP\\SPOJ\\BCINCSEQ.cpp","tests":[{"id":1646652308808,"input":"11\n88 99 11 22 22 33 11 66 33 44 77","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\BCINCSEQ.cpp","group":"local","local":true}

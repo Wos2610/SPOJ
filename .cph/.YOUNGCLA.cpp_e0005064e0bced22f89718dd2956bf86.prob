@@ -1,0 +1,1 @@
+{"name":"Local: YOUNGCLA","url":"d:\\Documents\\CPP\\SPOJ\\YOUNGCLA.cpp","tests":[{"id":1647877897552,"input":"5\nMickey 1 10 1991\nAlice 30 12 1990\nTom 15 8 1993\nJerry 18 9 1990\nGarfield 20 9 1990","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\YOUNGCLA.cpp","group":"local","local":true}

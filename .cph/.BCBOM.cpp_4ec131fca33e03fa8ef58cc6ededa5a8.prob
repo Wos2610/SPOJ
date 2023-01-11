@@ -1,0 +1,1 @@
+{"name":"Local: BCBOM","url":"d:\\Documents\\CPP\\SPOJ\\BCBOM.cpp","tests":[{"id":1648562158493,"input":"3 2  \n..  \n.*  \n..  \n5 5  \n*.*.*  \n..*..  \n*****  \n.....  \n..**.  \n0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\BCBOM.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P131SUMC","url":"d:\\Documents\\CPP\\SPOJ\\P131SUMC.cpp","tests":[{"id":1648133770393,"input":"1 2\n3 4","output":""},{"id":1648133782018,"input":"5 9\n7 2","output":""},{"id":1648133789093,"input":"41 99\n100 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P131SUMC.cpp","group":"local","local":true}

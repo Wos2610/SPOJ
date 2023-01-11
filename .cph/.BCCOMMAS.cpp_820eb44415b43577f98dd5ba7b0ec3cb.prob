@@ -1,0 +1,1 @@
+{"name":"Local: BCCOMMAS","url":"d:\\Documents\\CPP\\SPOJ\\BCCOMMAS.cpp","tests":[{"id":1648203295223,"input":"153920529","output":""},{"id":1648203343247,"input":"12345","output":""},{"id":1648203351623,"input":"10987654","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\BCCOMMAS.cpp","group":"local","local":true}

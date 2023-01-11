@@ -1,0 +1,1 @@
+{"name":"Local: P141PROB","url":"d:\\Documents\\CPP\\SPOJ\\P141PROB.cpp","tests":[{"id":1650163020742,"input":"2 3\n..o\no..","output":""},{"id":1650163193828,"input":"2 2\noo\noo","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P141PROB.cpp","group":"local","local":true}

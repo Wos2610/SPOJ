@@ -1,0 +1,1 @@
+{"name":"Local: PTIT125H","url":"d:\\Documents\\CPP\\SPOJ\\PTIT125H.cpp","tests":[{"id":1648295703492,"input":"3\nSSS","output":""},{"id":1648295712017,"input":"4\nSLLS","output":""},{"id":1648295713847,"input":"9\nSLLLLSSLL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\PTIT125H.cpp","group":"local","local":true}

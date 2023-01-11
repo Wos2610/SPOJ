@@ -1,0 +1,1 @@
+{"name":"Local: P171PROF","url":"d:\\Documents\\CPP\\SPOJ\\P171PROF.cpp","tests":[{"id":1650182174133,"input":"5\n1 1 1 1 1","output":""},{"id":1650182688168,"input":"5\n15 2 1 5 3 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\SPOJ\\P171PROF.cpp","group":"local","local":true}
